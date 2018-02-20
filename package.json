@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mykle1/MMM-MoonCalc#readme",
   "dependencies": {
-    "mooncalc": "1.0.7"
+    "mooncalc": "1.0.7",
+	  "lune": "0.4.0"
   }
 }
