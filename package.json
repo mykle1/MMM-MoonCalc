@@ -1,0 +1,22 @@
+{
+  "name": "mmm-mooncalc",
+  "version": "1.0.0",
+  "description": "MM module for calculating moon position, phases and zodiac sign",
+  "main": "MMM-MoonCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-MoonCalc.git"
+  },
+  "author": "Mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-MoonCalc/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-MoonCalc#readme",
+  "dependencies": {
+    "mooncalc": "1.0.7"
+  }
+}

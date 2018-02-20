@@ -1,0 +1,37 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-MoonCalc .header {
+  color: #62FF00;               /* Header color. Default is white. */
+}
+
+.MMM-MoonCalc .constellation {
+  color: #FFFFFF;               /* constellation color. Default is white. */
+}
+
+.MMM-MoonCalc .distance {
+  color: #FFFFFF;               /* distance color. Default is white. */
+}
+
+.MMM-MoonCalc .age {
+  color: #FFFFFF;               /* age color. Default is white. */
+}
+
+.MMM-MoonCalc .latitude {
+  color: #FFFFFF;               /* latitude color. Default is white. */
+}
+
+.MMM-MoonCalc .longitude {
+  color: #FFFFFF;               /* longitude color. Default is white. */
+}
+
+.MMM-MoonCalc .phase {
+  color: #FFFFFF;               /* phase color. Default is white. */
+}
+
+.MMM-MoonCalc .trajectory {
+  color: #FFFFFF;               /* trajectory color. Default is white. */
+}
